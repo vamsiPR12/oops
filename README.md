@@ -24,3 +24,12 @@ sorting list of names.cpp
 sum of n digits.cpp
 swap.cpp
 vote eligibility.cpp
+everse number.cpp
+aggregate marks.cpp
+3.3 piggie bank.cpp
+2.15 electricity bill.cpp
+2.9 simple intrest.cpp
+2.12 total and aggregate marks.cpp
+3.6 integer and character.cpp
+3.8 name,age,address of 10 students.cpp
+3.9 graduate.cpp
