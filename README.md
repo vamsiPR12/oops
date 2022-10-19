@@ -33,3 +33,14 @@ aggregate marks.cpp
 3.6 integer and character.cpp
 3.8 name,age,address of 10 students.cpp
 3.9 graduate.cpp
+d4 program 1.cpp
+d4 program 4.cpp
+d4 program 7.cpp
+d4 program 56.cpp
+d4 progream 2.cpp
+d5 program 1.cpp
+d5 program 2.cpp
+d5 program 4.cpp
+d5 program 5.cpp
+d5 program 6.cpp
+d5 program 7.cpp
